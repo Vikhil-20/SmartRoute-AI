@@ -1,0 +1,22 @@
+# Java
+target/
+*.class
+
+# Maven
+.settings/
+.project
+.classpath
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
